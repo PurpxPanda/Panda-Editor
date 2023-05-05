@@ -28,6 +28,6 @@ https://panda-editor.herokuapp.com/
 ## Stored Data
 ![Screenshot 2023-05-05 085401](https://user-images.githubusercontent.com/116929120/236479108-fa47ad34-ae4a-4ea3-a795-89ec1c801149.png)
 ## Install Function
-![Screenshot 2023-05-05 085413](https://user-images.githubusercontent.com/116929120/236479043-959ccb87-1800-4f3f-8b9e-41fc564cb9e8.pn
+![Screenshot 2023-05-05 085413](https://user-images.githubusercontent.com/116929120/236479043-959ccb87-1800-4f3f-8b9e-41fc564cb9e8.png)
 ## Offline App
 ![image](https://user-images.githubusercontent.com/116929120/236478427-3b0bdf09-9431-4308-8a25-0d3691a8d3cc.png)
