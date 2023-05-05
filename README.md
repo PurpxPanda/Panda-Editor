@@ -1,4 +1,4 @@
-# Text Editor Browser App
+# JATE (Just.Another.Text.Editor)
 This is a single-page text editor application that can run in your web browser. It meets the criteria for a Progressive Web App (PWA) and features several data persistence techniques to ensure redundancy in case one method is not supported by the browser. The application is designed to function offline, allowing you to edit text documents even when you are not connected to the internet.
 
 ## Getting Started
