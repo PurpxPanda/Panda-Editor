@@ -3,6 +3,7 @@ This is a single-page text editor application that can run in your web browser. 
 
 ## Getting Started
 To get started, simply open the application in your web browser. You can do this by navigating to the URL where the application is hosted. Once the application is loaded, you will be presented with a text editor interface where you can create and edit text documents.
+if you'd like you can also clone the repo and run npm install to install dependencies.
 
 ## Features
 Progressive Web App (PWA): This application meets the criteria for a PWA, allowing you to install it on your device and use it like a native app.
